@@ -24,7 +24,7 @@ Simple local Python script designed for biologists that cleans raw sequences and
 
 Join the discussion:
 
-[![Matrix](https://img.shields.io/badge/Matrix-Chat-black?logo=matrix](https://matrix.to/#/#edna-barcoding:matrix.org)
+[![Matrix](https://img.shields.io/badge/Matrix-Chat-black?logo=matrix)](https://matrix.to/#/#edna-barcoding:matrix.org)
 
 ## License
 
