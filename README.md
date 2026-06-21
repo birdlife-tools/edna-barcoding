@@ -20,6 +20,12 @@ Simple local Python script designed for biologists that cleans raw sequences and
 
 🚧 Planning
 
+## Community
+
+Join the discussion:
+
+[![Matrix](https://img.shields.io/badge/Matrix-%23edna-barcoding-black?logo=matrix)](https://matrix.to/#/#edna-barcoding:matrix.org)
+
 ## License
 
 MIT — see [LICENSE](LICENSE)
